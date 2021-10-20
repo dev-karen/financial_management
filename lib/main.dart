@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'app.dart';
+import 'package:financial_management/app.dart';
 
 void main() {
   runApp(const App());
