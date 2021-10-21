@@ -1,4 +1,4 @@
-import 'package:financial_management/screens/home/home_viewmodel.dart';
+import 'package:financial_management/screens/home_screen.dart';
 import 'package:financial_management/ui_kit/ui_kit.dart';
 import 'package:flutter/material.dart';
 
@@ -7,7 +7,6 @@ import 'package:injectable/injectable.dart';
 
 import 'package:financial_management/services/platform_service.dart';
 import 'package:financial_management/widgets/responsive_widget.dart';
-// import 'package:financial_management/screens/home/home.dart';
 
 @injectable
 class HomeScreen extends ResponsiveWidget {
@@ -46,14 +45,13 @@ class HomeScreen extends ResponsiveWidget {
     required ScreenSize screenSize,
   }) {
     return BlocBuilder(
-      bloc: _viewModel,
-      builder: (context, state) {
-        return const Scaffold(
-          body: Center(
-            child: UIText(text: 'Home'),
-          ),
-        );
-      },
-    );
+        bloc: _viewModel,
+        builder: (context, state) {
+          return const Scaffold(
+            body: Center(
+              child: UIText(text: 'Home'),
+            ),
+          );
+        });
   }
 }

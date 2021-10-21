@@ -1,9 +1,8 @@
-import 'package:financial_management/screens/home/home_view.dart';
-// import 'package:financial_management/screens/home_screen.dart';
+import 'package:financial_management/screens/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:injectable/injectable.dart';
 
-@singleton
+@injectable
 class App extends StatelessWidget {
   const App({
     required HomeScreen home,
