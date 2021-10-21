@@ -10,7 +10,7 @@
         "pubspec.lock": true,
         "dev.pap.playground.iml": true,
         "README.md": true,
-        "**/*.config.dart": true,
+        "**/*.config.dart": false,
         "**/*.g.dart": true,
         "**/*.mocks.dart": true,
         "**/.flutter-plugins*": true,
