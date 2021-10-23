@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>62294692663-5b0qgisfpa1frflo82mnkig916r8uauf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.62294692663-5b0qgisfpa1frflo82mnkig916r8uauf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyARncHcByarAhGRkFhnEFQii7-vTes559M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>62294692663</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>karen.dev.financialManagement</string>
+	<key>PROJECT_ID</key>
+	<string>financial-management-6cd1d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>financial-management-6cd1d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:62294692663:ios:0b63b543e4bb2400dec0b2</string>
+</dict>
+</plist>

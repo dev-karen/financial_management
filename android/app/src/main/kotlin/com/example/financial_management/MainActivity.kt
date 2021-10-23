@@ -1,4 +1,4 @@
-package com.example.financial_management
+package karen.dev.financial_management
 
 import io.flutter.embedding.android.FlutterActivity
 
